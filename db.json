@@ -1,0 +1,11 @@
+{
+  "news": [
+    { "id": 1, "title": "PMI Kudus Juara Nasional", "author": "typicode", "date": "12 Oktober 2018", "desc": "Kami PMI Kudus akan memberikan layanan dan informasi terbaik untuk warga Kudus" },
+    { "id": 2, "title": "Persediaan Kantung Darah Semakin Menipis", "author": "typicode", "date": "15 Oktober 2018", "desc": "Kami PMI Kudus akan memberikan layanan dan informasi terbaik untuk warga Kudus" },
+    { "id": 2, "title": "Gerakan Pemuda PMI Mendunia", "author": "typicode", "date": "25 Oktober 2018", "desc": "Kami PMI Kudus akan memberikan layanan dan informasi terbaik untuk warga Kudus" }
+  ],
+  "events": [
+    { "id": 1, "title": "Donor Darah Akbar Kabupaten Kudus", "author": "typicode", "date": "12 Oktober 2018", "desc": "Kami PMI Kudus akan memberikan layanan dan informasi terbaik untuk warga Kudus" },
+    { "id": 2, "title": "Donor Kampus: Mahasiswa Peduli", "author": "typicode", "date": "15 Oktober 2018", "desc": "Kami PMI Kudus akan memberikan layanan dan informasi terbaik untuk warga Kudus" }
+  ]
+}
